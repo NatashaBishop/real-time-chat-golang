@@ -3,7 +3,7 @@
 
     Registration and Login
     Creation of posts
-        Commenting posts
+    Commenting posts
     Private Messages
 
 ## The forum will have five different parts:
