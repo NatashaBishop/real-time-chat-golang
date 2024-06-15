@@ -1,5 +1,4 @@
-# real-time-forum
-
+# Fotum with chat in Golang and JS
 ## Objectives
 
     Registration and Login
