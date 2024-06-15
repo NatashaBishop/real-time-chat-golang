@@ -1,13 +1,13 @@
-## real-time-forum
+# real-time-forum
 
-# Objectives
+## Objectives
 
     Registration and Login
     Creation of posts
         Commenting posts
     Private Messages
 
-# The forum will have five different parts:
+## The forum will have five different parts:
 
     SQLite, in which you will store data, just like in the previous forum
     Golang, in which you will handle data and Websockets (Backend)
@@ -17,7 +17,7 @@
 
 The forum will have only one HTML file, so every change of page you want to do, should be handled in the Javascript. This can be called having a single page application.
 
-# Registration and Login
+## Registration and Login
 
 To be able to use the forum users will have to register and login, otherwise they will only see the registration or login page. This is premium stuff. The registration and login process should take in consideration the following features:
 
@@ -32,7 +32,7 @@ To be able to use the forum users will have to register and login, otherwise the
     The user must be able to connect using either the nickname or the e-mail combined with the password.
     The user must be able to log out from any page on the forum.
 
-Posts and Comments
+## Posts and Comments
 
 This part is pretty similar to the first forum. Users must be able to:
 
@@ -42,7 +42,7 @@ This part is pretty similar to the first forum. Users must be able to:
     See posts in a feed display
         See comments only if they click on a post
 
-Private Messages
+## Private Messages
 
 Users will be able to send private messages to each other, so we will create a chat, where it will exist :
 
@@ -70,7 +70,7 @@ Allowed Packages
 
     We will not use any frontend libraries or frameworks like React, Angular, Vue etc.
 
-# This project will help to learn about:
+## This project will help to learn about:
 
     The basics of web :
         HTML
