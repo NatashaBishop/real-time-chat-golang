@@ -1,4 +1,4 @@
-# Fotum with chat in Golang and JS
+# Forum with chat in Golang and JS
 ## Objectives
 
     Registration and Login
