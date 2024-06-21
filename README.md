@@ -1,6 +1,7 @@
 # Forum with chat in Golang and JS
 ## Objectives
 
+    Single Page Application
     Registration and Login
     Creation of posts
     Commenting posts
