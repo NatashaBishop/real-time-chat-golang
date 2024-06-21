@@ -86,14 +86,14 @@ Allowed Packages
     SQL language
         Manipulation of databases
 
-## File structure:
-.
-├─server.go
-├─static
-├───images
-├───modules
-├───src
-├───test
-├───...
-├───index.html
-├─javascript 
+## File structure:  
+.  
+├─server.go  
+├─static  
+├───images  
+├───modules  
+├───src  
+├───test  
+├───...  
+├───index.html  
+├─javascript   
