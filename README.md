@@ -99,9 +99,9 @@ Allowed Packages
 ├───index.html  
 ├─javascript   
 
-## Some learning materials useful for me:  
+### Some learning materials useful for me:  
 Chat Example with go and gorilla websockets https://github.com/gorilla/websocket/tree/main/examples/chat  
 About Gorilla Websocket - find  
-## Tools used  
+### Tools used  
 https://www.dbdiagram.io/home  
 
