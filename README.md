@@ -100,6 +100,7 @@ Allowed Packages
 ├─javascript   
 
 ### Some learning materials useful for me:  
+David Flanagan JavaScript: The Definitive Guide: https://pepa.holla.cz/wp-content/uploads/2016/08/JavaScript-The-Definitive-Guide-6th-Edition.pdf  
 Chat Example with go and gorilla websockets https://github.com/gorilla/websocket/tree/main/examples/chat  
 About Gorilla Websocket:  
 https://github.com/gorilla/mux#serving-single-page-applications  
