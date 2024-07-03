@@ -105,5 +105,5 @@ Chat Example with go and gorilla websockets https://github.com/gorilla/websocket
 About Gorilla Websocket:  
 https://github.com/gorilla/mux#serving-single-page-applications  
 ### Tools used  
-https://www.dbdiagram.io/home  
+https://www.dbdiagram.io/home
 
