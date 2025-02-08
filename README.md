@@ -16,10 +16,9 @@
     CSS, in which you will stylize the elements of the page
 
 Therefore the project is split into 3 main parts: 
-
-Registration and Login,  
-Posts and Comments,  
-Private Messages.  
+    Registration and Login, 
+    Posts and Comments, 
+    Private Messages. 
 
 The forum will have only one HTML file, so every change of page you want to do, should be handled in the Javascript. This can be called having a single page application.
 
