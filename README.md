@@ -1,5 +1,5 @@
 # Forum with chat in Golang and JS: a single page application with Gorilla Websockets and JS Websockets.
-## Objectives
+## Goals
 
     Single Page Application
     Registration and Login
