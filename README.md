@@ -6,6 +6,7 @@
     Creation of posts
     Commenting posts
     Private Messages
+    Real time live group chat
 
 ## The forum will have five different parts:
 
